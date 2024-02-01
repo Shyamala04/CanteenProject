@@ -1,7 +1,6 @@
 # CanteenManagement
 Description:
-       
-A canteen management system developed using Java provides a user-friendly, efficient, and centralized platform for managing all aspects of canteen operations, enhancing the dining experience for users while improving operational efficiency for administrators.
+    We have created a software regarding canteen management . This project is a user friendly one which we created to order food in home ,that will be updated in canteen.Then, after the canteen employee delievers food at the particular time we have chosen.
 
 TeamMembers:
 
